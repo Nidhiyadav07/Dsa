@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiyadav07/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -47,5 +48,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nidhiyadav07/Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
