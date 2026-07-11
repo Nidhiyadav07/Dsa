@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Nidhiyadav07/Dsa/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiyadav07/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Nidhiyadav07/Dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Nidhiyadav07/Dsa/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nidhiyadav07/Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
