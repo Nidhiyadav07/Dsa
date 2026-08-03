@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0099-recover-binary-search-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Nidhiyadav07/Dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0268-missing-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Nidhiyadav07/Dsa/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Nidhiyadav07/Dsa/tree/master/0169-majority-element) |
