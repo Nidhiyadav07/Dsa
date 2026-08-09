@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Nidhiyadav07/Dsa/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/Nidhiyadav07/Dsa/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Nidhiyadav07/Dsa/tree/master/0994-rotting-oranges) |
+| [1140-stone-game-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nidhiyadav07/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nidhiyadav07/Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Nidhiyadav07/Dsa/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Nidhiyadav07/Dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1140-stone-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nidhiyadav07/Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nidhiyadav07/Dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -150,10 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nidhiyadav07/Dsa/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Nidhiyadav07/Dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Nidhiyadav07/Dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1140-stone-game-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -170,4 +174,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Nidhiyadav07/Dsa/tree/master/0051-n-queens) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
