@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Nidhiyadav07/Dsa/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Nidhiyadav07/Dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiyadav07/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Nidhiyadav07/Dsa/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Nidhiyadav07/Dsa/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Nidhiyadav07/Dsa/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0136-single-number) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nidhiyadav07/Dsa/tree/master/0037-sudoku-solver) |
 | [0994-rotting-oranges](https://github.com/Nidhiyadav07/Dsa/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
@@ -174,11 +177,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Nidhiyadav07/Dsa/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Nidhiyadav07/Dsa/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nidhiyadav07/Dsa/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Nidhiyadav07/Dsa/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0052-n-queens-ii) |
 ## Minimax
@@ -198,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Nidhiyadav07/Dsa/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Nidhiyadav07/Dsa/tree/master/0060-permutation-sequence) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Nidhiyadav07/Dsa/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
