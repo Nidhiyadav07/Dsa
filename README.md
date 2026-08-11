@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Nidhiyadav07/Dsa/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Nidhiyadav07/Dsa/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Nidhiyadav07/Dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0189-rotate-array) |
@@ -192,5 +193,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Nidhiyadav07/Dsa/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Nidhiyadav07/Dsa/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
