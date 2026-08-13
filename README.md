@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Nidhiyadav07/Dsa/tree/master/0173-binary-search-tree-iterator) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nidhiyadav07/Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nidhiyadav07/Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nidhiyadav07/Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nidhiyadav07/Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
