@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Nidhiyadav07/Dsa/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/Nidhiyadav07/Dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0268-missing-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Nidhiyadav07/Dsa/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiyadav07/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Nidhiyadav07/Dsa/tree/master/1552-magnetic-force-between-two-balls) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Nidhiyadav07/Dsa/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Nidhiyadav07/Dsa/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/Nidhiyadav07/Dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1140-stone-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nidhiyadav07/Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
