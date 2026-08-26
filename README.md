@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nidhiyadav07/Dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Nidhiyadav07/Dsa/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Nidhiyadav07/Dsa/tree/master/1552-magnetic-force-between-two-balls) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Nidhiyadav07/Dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Nidhiyadav07/Dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Nidhiyadav07/Dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Tree
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Nidhiyadav07/Dsa/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Nidhiyadav07/Dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nidhiyadav07/Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Nidhiyadav07/Dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Nidhiyadav07/Dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Math
 |  |
