@@ -1,36 +1,70 @@
 class Solution {
-    public int maxConsecutiveAnswers(String answerKey, int k) {
-        return Math.max(
-            solve(answerKey, k, 'T'),
-            solve(answerKey, k, 'F')
-        );
-    }
 
-    private int solve(String s, int k, char target) {
-        int left = 0;
-        int changes = 0;
+    public int maxConsecutiveAnswers(String answerKey, int k) {
+
+        int low = 1;
+        int high = answerKey.length();
         int ans = 0;
 
-        for (int right = 0; right < s.length(); right++) {
+        while (low <= high) {
 
-            // If current character is not target,
-            // we need to change it.
-            if (s.charAt(right) != target) {
-                changes++;
+            int mid = low + (high - low) / 2;
+
+            if (possible(answerKey, k, mid)) {
+                ans = mid;
+                low = mid + 1;
+            } else {
+                high = mid - 1;
             }
-
-            // Too many changes -> shrink window
-            while (changes > k) {
-                if (s.charAt(left) != target) {
-                    changes--;
-                }
-                left++;
-            }
-
-            // Current window is valid
-            ans = Math.max(ans, right - left + 1);
         }
 
         return ans;
+    }
+
+    private boolean possible(String s, int k, int len) {
+
+        int countT = 0;
+        int countF = 0;
+
+        // First window
+        for (int i = 0; i < len; i++) {
+            if (s.charAt(i) == 'T') {
+                countT++;
+            } else {
+                countF++;
+            }
+        }
+
+        // Can this window become all T or all F?
+        if (countT <= k || countF <= k) {
+            return true;
+        }
+
+        // Sliding window of fixed length
+        for (int right = len; right < s.length(); right++) {
+
+            // Add right character
+            if (s.charAt(right) == 'T') {
+                countT++;
+            } else {
+                countF++;
+            }
+
+            // Remove left character
+            int left = right - len;
+
+            if (s.charAt(left) == 'T') {
+                countT--;
+            } else {
+                countF--;
+            }
+
+            // We can make this window all T or all F
+            if (countT <= k || countF <= k) {
+                return true;
+            }
+        }
+
+        return false;
     }
 }
