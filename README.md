@@ -277,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Nidhiyadav07/Dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nidhiyadav07/Dsa/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
