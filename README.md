@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Nidhiyadav07/Dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nidhiyadav07/Dsa/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Nidhiyadav07/Dsa/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Nidhiyadav07/Dsa/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0136-single-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Nidhiyadav07/Dsa/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Nidhiyadav07/Dsa/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Nidhiyadav07/Dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Nidhiyadav07/Dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Nidhiyadav07/Dsa/tree/master/0223-rectangle-area) |
