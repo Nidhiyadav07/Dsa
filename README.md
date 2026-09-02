@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Nidhiyadav07/Dsa/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Nidhiyadav07/Dsa/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Nidhiyadav07/Dsa/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Nidhiyadav07/Dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Nidhiyadav07/Dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0189-rotate-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Nidhiyadav07/Dsa/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Geometry
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nidhiyadav07/Dsa/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Nidhiyadav07/Dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nidhiyadav07/Dsa/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Nidhiyadav07/Dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0213-house-robber-ii) |
