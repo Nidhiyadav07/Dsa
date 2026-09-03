@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Nidhiyadav07/Dsa/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1140-stone-game-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nidhiyadav07/Dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nidhiyadav07/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Nidhiyadav07/Dsa/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Nidhiyadav07/Dsa/tree/master/1552-magnetic-force-between-two-balls) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Nidhiyadav07/Dsa/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0931-minimum-falling-path-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Nidhiyadav07/Dsa/tree/master/0994-rotting-oranges) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Nidhiyadav07/Dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1140-stone-game-ii) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nidhiyadav07/Dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Game Theory
 |  |
