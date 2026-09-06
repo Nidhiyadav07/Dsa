@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nidhiyadav07/Dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Nidhiyadav07/Dsa/tree/master/0223-rectangle-area) |
+| [0258-add-digits](https://github.com/Nidhiyadav07/Dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Nidhiyadav07/Dsa/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/Nidhiyadav07/Dsa/tree/master/0877-stone-game) |
@@ -341,4 +342,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Nidhiyadav07/Dsa/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Nidhiyadav07/Dsa/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Nidhiyadav07/Dsa/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
