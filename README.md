@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nidhiyadav07/Dsa/tree/master/0283-move-zeroes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Nidhiyadav07/Dsa/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0416-partition-equal-subset-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Nidhiyadav07/Dsa/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0540-single-element-in-a-sorted-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Nidhiyadav07/Dsa/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Nidhiyadav07/Dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nidhiyadav07/Dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Nidhiyadav07/Dsa/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nidhiyadav07/Dsa/tree/master/0918-maximum-sum-circular-subarray) |
@@ -350,4 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nidhiyadav07/Dsa/tree/master/0258-add-digits) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
