@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Nidhiyadav07/Dsa/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/Nidhiyadav07/Dsa/tree/master/0520-detect-capital) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nidhiyadav07/Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Nidhiyadav07/Dsa/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/Nidhiyadav07/Dsa/tree/master/1544-make-the-string-great) |
 | [1927-sum-game](https://github.com/Nidhiyadav07/Dsa/tree/master/1927-sum-game) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Nidhiyadav07/Dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/Nidhiyadav07/Dsa/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1463-cherry-pickup-ii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nidhiyadav07/Dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Nidhiyadav07/Dsa/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Nidhiyadav07/Dsa/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
