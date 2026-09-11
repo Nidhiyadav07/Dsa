@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nidhiyadav07/Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Nidhiyadav07/Dsa/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nidhiyadav07/Dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1544-make-the-string-great](https://github.com/Nidhiyadav07/Dsa/tree/master/1544-make-the-string-great) |
 | [1927-sum-game](https://github.com/Nidhiyadav07/Dsa/tree/master/1927-sum-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Nidhiyadav07/Dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Nidhiyadav07/Dsa/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nidhiyadav07/Dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1463-cherry-pickup-ii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nidhiyadav07/Dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Game Theory
