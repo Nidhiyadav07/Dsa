@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Nidhiyadav07/Dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Nidhiyadav07/Dsa/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Nidhiyadav07/Dsa/tree/master/0371-sum-of-two-integers) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Nidhiyadav07/Dsa/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0877-stone-game](https://github.com/Nidhiyadav07/Dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1140-stone-game-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Nidhiyadav07/Dsa/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/Nidhiyadav07/Dsa/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
