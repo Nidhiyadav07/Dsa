@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Nidhiyadav07/Dsa/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Nidhiyadav07/Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nidhiyadav07/Dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Nidhiyadav07/Dsa/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Nidhiyadav07/Dsa/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nidhiyadav07/Dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0518-coin-change-ii) |
