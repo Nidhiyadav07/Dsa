@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nidhiyadav07/Dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Nidhiyadav07/Dsa/tree/master/0322-coin-change) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Nidhiyadav07/Dsa/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0393-utf-8-validation](https://github.com/Nidhiyadav07/Dsa/tree/master/0393-utf-8-validation) |
 | [0416-partition-equal-subset-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Nidhiyadav07/Dsa/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0503-next-greater-element-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Nidhiyadav07/Dsa/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Nidhiyadav07/Dsa/tree/master/0371-sum-of-two-integers) |
+| [0393-utf-8-validation](https://github.com/Nidhiyadav07/Dsa/tree/master/0393-utf-8-validation) |
 ## Sorting
 |  |
 | ------- |
