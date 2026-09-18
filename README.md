@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Nidhiyadav07/Dsa/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/Nidhiyadav07/Dsa/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Nidhiyadav07/Dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Nidhiyadav07/Dsa/tree/master/0290-word-pattern) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Nidhiyadav07/Dsa/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/Nidhiyadav07/Dsa/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Nidhiyadav07/Dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiyadav07/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Nidhiyadav07/Dsa/tree/master/0020-valid-parentheses) |
+| [0127-word-ladder](https://github.com/Nidhiyadav07/Dsa/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Nidhiyadav07/Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/Nidhiyadav07/Dsa/tree/master/0290-word-pattern) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Nidhiyadav07/Dsa/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -435,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Nidhiyadav07/Dsa/tree/master/0300-longest-increasing-subsequence) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Nidhiyadav07/Dsa/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
