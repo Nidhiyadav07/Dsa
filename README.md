@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Nidhiyadav07/Dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nidhiyadav07/Dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Nidhiyadav07/Dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nidhiyadav07/Dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/Nidhiyadav07/Dsa/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nidhiyadav07/Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nidhiyadav07/Dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nidhiyadav07/Dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nidhiyadav07/Dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
