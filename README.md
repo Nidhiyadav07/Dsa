@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Nidhiyadav07/Dsa/tree/master/1048-longest-string-chain) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nidhiyadav07/Dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nidhiyadav07/Dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nidhiyadav07/Dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nidhiyadav07/Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Nidhiyadav07/Dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nidhiyadav07/Dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nidhiyadav07/Dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Nidhiyadav07/Dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nidhiyadav07/Dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nidhiyadav07/Dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nidhiyadav07/Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/Nidhiyadav07/Dsa/tree/master/1544-make-the-string-great) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nidhiyadav07/Dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Nidhiyadav07/Dsa/tree/master/1927-sum-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Nidhiyadav07/Dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nidhiyadav07/Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
