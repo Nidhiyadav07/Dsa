@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nidhiyadav07/Dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Nidhiyadav07/Dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nidhiyadav07/Dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Nidhiyadav07/Dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nidhiyadav07/Dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/Nidhiyadav07/Dsa/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nidhiyadav07/Dsa/tree/master/0258-add-digits) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Nidhiyadav07/Dsa/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
