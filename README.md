@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Nidhiyadav07/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Nidhiyadav07/Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0234-palindrome-linked-list) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Nidhiyadav07/Dsa/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Nidhiyadav07/Dsa/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Nidhiyadav07/Dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0268-missing-number) |
 | [1048-longest-string-chain](https://github.com/Nidhiyadav07/Dsa/tree/master/1048-longest-string-chain) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nidhiyadav07/Dsa/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Nidhiyadav07/Dsa/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nidhiyadav07/Dsa/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Nidhiyadav07/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0876-middle-of-the-linked-list) |
@@ -511,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nidhiyadav07/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
