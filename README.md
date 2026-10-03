@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Nidhiyadav07/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0206-reverse-linked-list) |
