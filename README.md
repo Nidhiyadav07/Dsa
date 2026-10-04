@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nidhiyadav07/Dsa/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nidhiyadav07/Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nidhiyadav07/Dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Nidhiyadav07/Dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Nidhiyadav07/Dsa/tree/master/0994-rotting-oranges) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [1048-longest-string-chain](https://github.com/Nidhiyadav07/Dsa/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1140-stone-game-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nidhiyadav07/Dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nidhiyadav07/Dsa/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/1019-next-greater-node-in-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nidhiyadav07/Dsa/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Queue
