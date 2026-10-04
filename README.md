@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Nidhiyadav07/Dsa/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nidhiyadav07/Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Nidhiyadav07/Dsa/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dancing Links
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nidhiyadav07/Dsa/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nidhiyadav07/Dsa/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
