@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nidhiyadav07/Dsa/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/1019-next-greater-node-in-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Nidhiyadav07/Dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nidhiyadav07/Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nidhiyadav07/Dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/Nidhiyadav07/Dsa/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nidhiyadav07/Dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Nidhiyadav07/Dsa/tree/master/0520-detect-capital) |
+| [1021-remove-outermost-parentheses](https://github.com/Nidhiyadav07/Dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nidhiyadav07/Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/Nidhiyadav07/Dsa/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Nidhiyadav07/Dsa/tree/master/1143-longest-common-subsequence) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nidhiyadav07/Dsa/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Nidhiyadav07/Dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nidhiyadav07/Dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nidhiyadav07/Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nidhiyadav07/Dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
