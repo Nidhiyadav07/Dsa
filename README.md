@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nidhiyadav07/Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nidhiyadav07/Dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1472-design-browser-history](https://github.com/Nidhiyadav07/Dsa/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/Nidhiyadav07/Dsa/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nidhiyadav07/Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Nidhiyadav07/Dsa/tree/master/0173-binary-search-tree-iterator) |
+| [1472-design-browser-history](https://github.com/Nidhiyadav07/Dsa/tree/master/1472-design-browser-history) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nidhiyadav07/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/Nidhiyadav07/Dsa/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Nidhiyadav07/Dsa/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Nidhiyadav07/Dsa/tree/master/1552-magnetic-force-between-two-balls) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/Nidhiyadav07/Dsa/tree/master/1472-design-browser-history) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nidhiyadav07/Dsa/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/2487-remove-nodes-from-linked-list) |
@@ -553,4 +557,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nidhiyadav07/Dsa/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Nidhiyadav07/Dsa/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Nidhiyadav07/Dsa/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
