@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0100-same-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Nidhiyadav07/Dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiyadav07/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0100-same-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Nidhiyadav07/Dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiyadav07/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Iterator
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0547-number-of-provinces](https://github.com/Nidhiyadav07/Dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiyadav07/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0100-same-tree) |
 | [0127-word-ladder](https://github.com/Nidhiyadav07/Dsa/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/Nidhiyadav07/Dsa/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Nidhiyadav07/Dsa/tree/master/0547-number-of-provinces) |
