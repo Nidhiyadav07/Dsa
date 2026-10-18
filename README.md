@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nidhiyadav07/Dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nidhiyadav07/Dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Nidhiyadav07/Dsa/tree/master/0173-binary-search-tree-iterator) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nidhiyadav07/Dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nidhiyadav07/Dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Nidhiyadav07/Dsa/tree/master/0173-binary-search-tree-iterator) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nidhiyadav07/Dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nidhiyadav07/Dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Nidhiyadav07/Dsa/tree/master/0199-binary-tree-right-side-view) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Nidhiyadav07/Dsa/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0052-n-queens-ii) |
+| [0113-path-sum-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Nidhiyadav07/Dsa/tree/master/0216-combination-sum-iii) |
 ## Algorithm X
 |  |
