@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Nidhiyadav07/Dsa/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiyadav07/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nidhiyadav07/Dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Nidhiyadav07/Dsa/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiyadav07/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nidhiyadav07/Dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Iterator
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Nidhiyadav07/Dsa/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Nidhiyadav07/Dsa/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiyadav07/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nidhiyadav07/Dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1048-longest-string-chain](https://github.com/Nidhiyadav07/Dsa/tree/master/1048-longest-string-chain) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nidhiyadav07/Dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Nidhiyadav07/Dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Nidhiyadav07/Dsa/tree/master/0877-stone-game) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nidhiyadav07/Dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nidhiyadav07/Dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Nidhiyadav07/Dsa/tree/master/0994-rotting-oranges) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nidhiyadav07/Dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Nidhiyadav07/Dsa/tree/master/0169-majority-element) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nidhiyadav07/Dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nidhiyadav07/Dsa/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
