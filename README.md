@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nidhiyadav07/Dsa/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Nidhiyadav07/Dsa/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Nidhiyadav07/Dsa/tree/master/0617-merge-two-binary-trees) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nidhiyadav07/Dsa/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Nidhiyadav07/Dsa/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Nidhiyadav07/Dsa/tree/master/0617-merge-two-binary-trees) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nidhiyadav07/Dsa/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Nidhiyadav07/Dsa/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0547-number-of-provinces](https://github.com/Nidhiyadav07/Dsa/tree/master/0547-number-of-provinces) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nidhiyadav07/Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0127-word-ladder](https://github.com/Nidhiyadav07/Dsa/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Nidhiyadav07/Dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/Nidhiyadav07/Dsa/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Nidhiyadav07/Dsa/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Nidhiyadav07/Dsa/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Nidhiyadav07/Dsa/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Nidhiyadav07/Dsa/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Nidhiyadav07/Dsa/tree/master/0257-binary-tree-paths) |
 ## Algorithm X
 |  |
 | ------- |
