@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Nidhiyadav07/Dsa/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiyadav07/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nidhiyadav07/Dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0993-cousins-in-binary-tree) |
 ## Design
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Nidhiyadav07/Dsa/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiyadav07/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nidhiyadav07/Dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0993-cousins-in-binary-tree) |
 ## Iterator
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Nidhiyadav07/Dsa/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiyadav07/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Nidhiyadav07/Dsa/tree/master/0695-max-area-of-island) |
 | [0993-cousins-in-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Nidhiyadav07/Dsa/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiyadav07/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Nidhiyadav07/Dsa/tree/master/0695-max-area-of-island) |
 | [0993-cousins-in-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Nidhiyadav07/Dsa/tree/master/0994-rotting-oranges) |
