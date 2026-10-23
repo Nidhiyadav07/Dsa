@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nidhiyadav07/Dsa/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Nidhiyadav07/Dsa/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/Nidhiyadav07/Dsa/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Nidhiyadav07/Dsa/tree/master/0496-next-greater-element-i) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nidhiyadav07/Dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Nidhiyadav07/Dsa/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/Nidhiyadav07/Dsa/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Nidhiyadav07/Dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Nidhiyadav07/Dsa/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Nidhiyadav07/Dsa/tree/master/0367-valid-perfect-square) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nidhiyadav07/Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0127-word-ladder](https://github.com/Nidhiyadav07/Dsa/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Nidhiyadav07/Dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/Nidhiyadav07/Dsa/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Nidhiyadav07/Dsa/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Nidhiyadav07/Dsa/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Nidhiyadav07/Dsa/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Nidhiyadav07/Dsa/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Nidhiyadav07/Dsa/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dancing Links
