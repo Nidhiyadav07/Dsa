@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nidhiyadav07/Dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nidhiyadav07/Dsa/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Nidhiyadav07/Dsa/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Nidhiyadav07/Dsa/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Nidhiyadav07/Dsa/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nidhiyadav07/Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Nidhiyadav07/Dsa/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiyadav07/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/Nidhiyadav07/Dsa/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/Nidhiyadav07/Dsa/tree/master/1048-longest-string-chain) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nidhiyadav07/Dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/Nidhiyadav07/Dsa/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nidhiyadav07/Dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Nidhiyadav07/Dsa/tree/master/0520-detect-capital) |
+| [0844-backspace-string-compare](https://github.com/Nidhiyadav07/Dsa/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Nidhiyadav07/Dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nidhiyadav07/Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Nidhiyadav07/Dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nidhiyadav07/Dsa/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/Nidhiyadav07/Dsa/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nidhiyadav07/Dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Nidhiyadav07/Dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Nidhiyadav07/Dsa/tree/master/2696-minimum-string-length-after-removing-substrings) |
