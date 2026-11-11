@@ -1,20 +1,21 @@
 class Solution {
-    HashMap<Integer,Integer> dp=new HashMap<>();
 
-    public int ways(int n,int i){
-        if(i==n)return 1;
-        if(i>=n)return 0;
+    public int ways(int n, int[] dp) {
 
-        if(dp.containsKey(i)){return dp.get(i);}
+        if(n == 0) return 1;
+        if(n == 1) return 1;
 
-        int ans=ways(n,i+1)+ways(n,i+2);
+        if(dp[n] != -1) return dp[n];
 
-        dp.put(i,ans);
-        return ans;
+        return dp[n] = ways(n-1, dp) 
+                     + ways(n-2, dp);
     }
+
     public int climbStairs(int n) {
-        return ways(n,0);
-        
-        
+
+        int[] dp = new int[n+1];
+        Arrays.fill(dp, -1);
+
+        return ways(n, dp);
     }
 }
