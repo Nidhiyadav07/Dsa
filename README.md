@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Nidhiyadav07/Dsa/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Nidhiyadav07/Dsa/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/Nidhiyadav07/Dsa/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nidhiyadav07/Dsa/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Nidhiyadav07/Dsa/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nidhiyadav07/Dsa/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nidhiyadav07/Dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Nidhiyadav07/Dsa/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Nidhiyadav07/Dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Nidhiyadav07/Dsa/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nidhiyadav07/Dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Nidhiyadav07/Dsa/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Nidhiyadav07/Dsa/tree/master/0174-dungeon-game) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Nidhiyadav07/Dsa/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0542-01-matrix](https://github.com/Nidhiyadav07/Dsa/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Nidhiyadav07/Dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nidhiyadav07/Dsa/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/0931-minimum-falling-path-sum) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Nidhiyadav07/Dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nidhiyadav07/Dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Nidhiyadav07/Dsa/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Nidhiyadav07/Dsa/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nidhiyadav07/Dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nidhiyadav07/Dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Nidhiyadav07/Dsa/tree/master/0877-stone-game) |
